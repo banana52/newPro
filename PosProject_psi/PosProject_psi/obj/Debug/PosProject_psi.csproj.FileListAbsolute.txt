@@ -1,0 +1,10 @@
+C:\WindowForm\PosProject_psi\PosProject_psi\bin\Debug\PosProject_psi.exe.config
+C:\WindowForm\PosProject_psi\PosProject_psi\bin\Debug\PosProject_psi.exe
+C:\WindowForm\PosProject_psi\PosProject_psi\bin\Debug\PosProject_psi.pdb
+C:\WindowForm\PosProject_psi\PosProject_psi\obj\Debug\PosProject_psi.csprojResolveAssemblyReference.cache
+C:\WindowForm\PosProject_psi\PosProject_psi\obj\Debug\PosProject_psi.MainForm.resources
+C:\WindowForm\PosProject_psi\PosProject_psi\obj\Debug\PosProject_psi.Properties.Resources.resources
+C:\WindowForm\PosProject_psi\PosProject_psi\obj\Debug\PosProject_psi.csproj.GenerateResource.Cache
+C:\WindowForm\PosProject_psi\PosProject_psi\obj\Debug\PosProject_psi.csproj.CoreCompileInputs.cache
+C:\WindowForm\PosProject_psi\PosProject_psi\obj\Debug\PosProject_psi.exe
+C:\WindowForm\PosProject_psi\PosProject_psi\obj\Debug\PosProject_psi.pdb
